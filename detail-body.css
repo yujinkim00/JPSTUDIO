@@ -1,0 +1,39 @@
+#detail-img {
+  text-align: center;
+
+}
+
+#b-box {
+  display: column;
+
+}
+
+#review, #qna{
+display : inline;
+margin-bottom : 100px;
+}
+
+
+#r {
+  
+  text-align: right;
+}
+
+#l {
+  text-align: left;
+  margin-left : 150px;
+}
+
+#but-w, #but-l {
+  border : none;
+  background-color: white;
+}
+
+#but-w:hover{
+ color : gray; 
+}
+
+#but-l:hover{
+  color : gray; 
+ }
+
